@@ -1,0 +1,9 @@
+[package]
+name = "trpl_dv"
+version = "1.0.0"
+authors = ["Davis Van Sant <davisvansant@users.noreply.github.com>"]
+edition = "2018"
+description = "Just trying out crates.io"
+license = "Apache-2.0"
+
+[dependencies]
